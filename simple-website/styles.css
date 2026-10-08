@@ -4,6 +4,11 @@
 }
 /* targets all elements */
 
+p {
+    font-size: 12px;
+    text-align: center;
+}
+
 h1, h2 {
     color : #26211D;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -21,7 +26,7 @@ h2 {
     font-style: italic;
 }
 
-.gallery-container {
+#gallery-container {
     /* display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
